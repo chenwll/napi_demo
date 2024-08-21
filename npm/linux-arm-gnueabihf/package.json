@@ -1,0 +1,18 @@
+{
+  "name": "const_replace-linux-arm-gnueabihf",
+  "version": "0.0.0",
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "arm"
+  ],
+  "main": "cwl.linux-arm-gnueabihf.node",
+  "files": [
+    "cwl.linux-arm-gnueabihf.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}
