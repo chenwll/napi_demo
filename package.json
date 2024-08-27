@@ -21,6 +21,10 @@
         "universal-apple-darwin",
         "riscv64gc-unknown-linux-gnu"
       ]
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/chenwll/napi_demo"
     }
   },
   "license": "MIT",
@@ -42,10 +46,6 @@
     "test": "ava",
     "universal": "napi universal",
     "version": "napi version"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/chenwll/napi_demo"
   },
   "packageManager": "yarn@4.4.0"
 }
