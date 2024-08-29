@@ -24,7 +24,7 @@
     },
     "repository": {
       "type": "git",
-      "url": "https://github.com/chenwll/napi_demo"
+      "url": "https://github.com/chenwll/napi_demo/tree/8372c6c"
     }
   },
   "license": "MIT",
@@ -51,14 +51,10 @@
   "description": "use rust to replace const",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chenwll/napi_demo.git"
+    "url": "git+https://github.com/chenwll/napi_demo/tree/8372c6c"
   },
   "keywords": [
     "napi"
   ],
-  "author": "chenwenliang",
-  "bugs": {
-    "url": "https://github.com/chenwll/napi_demo/issues"
-  },
-  "homepage": "https://github.com/chenwll/napi_demo#readme"
+  "author": "chenwenliang"
 }
