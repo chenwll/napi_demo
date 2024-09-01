@@ -1,0 +1,31 @@
+{
+  "name": "@chenwll/const_replace-linux-arm-gnueabihf",
+  "version": "0.1.2",
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "arm"
+  ],
+  "main": "cwl.linux-arm-gnueabihf.node",
+  "files": [
+    "cwl.linux-arm-gnueabihf.node"
+  ],
+  "description": "use rust to replace const",
+  "keywords": [
+    "napi"
+  ],
+  "author": "chenwenliang",
+  "homepage": "https://github.com/chenwll/napi_demo#readme",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenwll/napi_demo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chenwll/napi_demo/issues"
+  }
+}

@@ -1,0 +1,3 @@
+# `@chenwll/const_replace-darwin-x64`
+
+This is the **x86_64-apple-darwin** binary for `@chenwll/const_replace`

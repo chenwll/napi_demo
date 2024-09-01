@@ -1,0 +1,34 @@
+{
+  "name": "@chenwll/const_replace-linux-x64-gnu",
+  "version": "0.1.2",
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "x64"
+  ],
+  "main": "cwl.linux-x64-gnu.node",
+  "files": [
+    "cwl.linux-x64-gnu.node"
+  ],
+  "description": "use rust to replace const",
+  "keywords": [
+    "napi"
+  ],
+  "author": "chenwenliang",
+  "homepage": "https://github.com/chenwll/napi_demo#readme",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenwll/napi_demo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chenwll/napi_demo/issues"
+  },
+  "libc": [
+    "glibc"
+  ]
+}

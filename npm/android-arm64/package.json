@@ -1,0 +1,31 @@
+{
+  "name": "@chenwll/const_replace-android-arm64",
+  "version": "0.1.2",
+  "os": [
+    "android"
+  ],
+  "cpu": [
+    "arm64"
+  ],
+  "main": "cwl.android-arm64.node",
+  "files": [
+    "cwl.android-arm64.node"
+  ],
+  "description": "use rust to replace const",
+  "keywords": [
+    "napi"
+  ],
+  "author": "chenwenliang",
+  "homepage": "https://github.com/chenwll/napi_demo#readme",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenwll/napi_demo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chenwll/napi_demo/issues"
+  }
+}
