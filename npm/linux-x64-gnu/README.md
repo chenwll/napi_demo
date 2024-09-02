@@ -1,3 +1,3 @@
-# `@chenwll/const_replace-linux-x64-gnu`
+# `@chuchen_const/const_replace-linux-x64-gnu`
 
-This is the **x86_64-unknown-linux-gnu** binary for `@chenwll/const_replace`
+This is the **x86_64-unknown-linux-gnu** binary for `@chuchen_const/const_replace`

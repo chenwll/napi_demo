@@ -1,7 +1,7 @@
 name: CI
 env:
   DEBUG: napi:*
-  APP_NAME: cwl
+  APP_NAME: const_replace
   MACOSX_DEPLOYMENT_TARGET: '10.13'
 permissions:
   contents: write

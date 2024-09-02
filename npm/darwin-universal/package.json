@@ -1,12 +1,12 @@
 {
-  "name": "@chenwll/const_replace-darwin-universal",
+  "name": "@chuchen_const/const_replace-darwin-universal",
   "version": "0.1.4",
   "os": [
     "darwin"
   ],
-  "main": "cwl.darwin-universal.node",
+  "main": "const_replace.darwin-universal.node",
   "files": [
-    "cwl.darwin-universal.node"
+    "const_replace.darwin-universal.node"
   ],
   "description": "use rust to replace const",
   "keywords": [
@@ -18,10 +18,7 @@
   "engines": {
     "node": ">= 10"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/chenwll/napi_demo.git"
-  },
+  "repository": "https://github.com/chenwll/napi_demo",
   "bugs": {
     "url": "https://github.com/chenwll/napi_demo/issues"
   }

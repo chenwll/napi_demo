@@ -1,5 +1,5 @@
 {
-  "name": "@chenwll/const_replace-darwin-arm64",
+  "name": "@chuchen_const/const_replace-darwin-arm64",
   "version": "0.1.4",
   "os": [
     "darwin"
@@ -7,9 +7,9 @@
   "cpu": [
     "arm64"
   ],
-  "main": "cwl.darwin-arm64.node",
+  "main": "const_replace.darwin-arm64.node",
   "files": [
-    "cwl.darwin-arm64.node"
+    "const_replace.darwin-arm64.node"
   ],
   "description": "use rust to replace const",
   "keywords": [
@@ -21,10 +21,7 @@
   "engines": {
     "node": ">= 10"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/chenwll/napi_demo.git"
-  },
+  "repository": "https://github.com/chenwll/napi_demo",
   "bugs": {
     "url": "https://github.com/chenwll/napi_demo/issues"
   }
