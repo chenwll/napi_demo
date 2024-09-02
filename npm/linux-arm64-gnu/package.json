@@ -1,6 +1,6 @@
 {
   "name": "@chuchen_const/const_replace-linux-arm64-gnu",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "os": [
     "linux"
   ],
